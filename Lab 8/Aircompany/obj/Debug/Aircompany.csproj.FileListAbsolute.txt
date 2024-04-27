@@ -1,0 +1,7 @@
+D:\3 курс - 2 сем\Тестирование\Lab8\aircompany\Net\Aircompany\bin\Debug\Aircompany.exe.config
+D:\3 курс - 2 сем\Тестирование\Lab8\aircompany\Net\Aircompany\bin\Debug\Aircompany.exe
+D:\3 курс - 2 сем\Тестирование\Lab8\aircompany\Net\Aircompany\bin\Debug\Aircompany.pdb
+D:\3 курс - 2 сем\Тестирование\Lab8\aircompany\Net\Aircompany\obj\Debug\Aircompany.csproj.AssemblyReference.cache
+D:\3 курс - 2 сем\Тестирование\Lab8\aircompany\Net\Aircompany\obj\Debug\Aircompany.csproj.CoreCompileInputs.cache
+D:\3 курс - 2 сем\Тестирование\Lab8\aircompany\Net\Aircompany\obj\Debug\Aircompany.exe
+D:\3 курс - 2 сем\Тестирование\Lab8\aircompany\Net\Aircompany\obj\Debug\Aircompany.pdb
